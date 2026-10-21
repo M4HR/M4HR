@@ -26,6 +26,6 @@ $ whoami
 
 ---
 
-> 🔒 **Private Production:** Most implementations, infrastructure code, and client solutions live in private repositories under NDA.
+> ⚙️ Focused on production environments, systems stability, and self-hosted deployments.
 
 </div>
