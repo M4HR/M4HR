@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hola, soy Manuel (M4HR) 👋
 
-<!--
-**M4HR/M4HR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> **Systems Engineer | Infrastructure & Full-Stack Builder**  
+> Enfocado en infraestructura de servidores, virtualización, homelab y desarrollo de sistemas modulares.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Stack & Tecnologías
+
+- **Infraestructura & DevOps:** Linux (Fedora, Debian, Ubuntu), Proxmox VE, Docker, Portainer, Coder, Tailscale, Nginx Proxy Manager.
+- **Desarrollo & Automatización:** Python, JavaScript / Vue 3, Shell Scripting, APIs, agentes de IA e integraciones de flujos.
+- **Bases de Datos & Servicios:** PocketBase, PostgreSQL, MariaDB, Redis.
+- **Redes & SysAdmin:** Routing, CCNA, gestión de dominios, túneles Cloudflare y hardening de servidores.
+
+---
+
+### 📊 Actividad en GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=M4HR&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M4HR&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" />
+</div>
+
+---
+
+### 🔒 Proyectos y Producción
+Gran parte de mis desarrollos e implementaciones de infraestructura operan en **repositorios privados** para clientes y entornos de producción.
