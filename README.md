@@ -26,6 +26,6 @@ $ whoami
 
 ---
 
-> ⚙️ Focused on production environments, systems stability, and self-hosted deployments.
+> *"Keep it simple. Build systems that stay up, automate the rest."*
 
 </div>
